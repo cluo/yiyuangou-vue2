@@ -1,2 +1,30 @@
 # yiyuangou-vue2
-最近在找工作，感觉非常痛苦。浑浑噩噩的过了20多天，零零星星也接到一两个面试通知，参加面试遇到了最大的问题就是没有工作经验，拿不出自己的作品。因此，我打算静下心来，仿出一个项目（一元夺宝）。提高自身竞争力，同时也记录下自己所踏的坑，希望对后来者有所帮助。
+
+> A Vue.js project
+
+## Build Setup
+
+``` bash
+# install dependencies
+npm install
+
+# serve with hot reload at localhost:8080
+npm run dev
+
+# build for production with minification
+npm run build
+
+# build for production and view the bundle analyzer report
+npm run build --report
+
+# run unit tests
+npm run unit
+
+# run e2e tests
+npm run e2e
+
+# run all tests
+npm test
+```
+
+For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
